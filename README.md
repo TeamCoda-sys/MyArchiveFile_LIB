@@ -1,5 +1,5 @@
 # MyArchiveFile_LIB
-This is a Library for MyArchieFile !
+This is a Library for MyArchiveFile !
 
 To Use :
 
